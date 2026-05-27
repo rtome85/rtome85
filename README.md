@@ -35,28 +35,28 @@ I enjoy turning ideas into real products — from early concepts and interface d
 
 # Currently Building
 
-### Bespoke
+## Bespoke
 AI-powered browser extension that automatically tailors CVs and cover letters locally using Ollama.
 
 **Tech:** React • TypeScript • Plasmo • Ollama
 
 ---
 
-### FC Pereirense Platform
+## FC Pereirense Platform
 Modern football club platform focused on memberships, events, digital experiences and content management.
 
 **Tech:** Astro • React • MySQL • Drizzle ORM • TailwindCSS
 
 ---
 
-### Lingua
+## Lingua
 Language learning experience inspired by Duolingo with a strong focus on delightful UX and interaction design.
 
 **Tech:** React Native • TypeScript • Zustand
 
 ---
 
-### Omarchy / Wayland Experiments
+## Omarchy / Wayland Experiments
 Custom Linux desktop tooling, widgets and shell experiments for Wayland environments.
 
 **Tech:** Rust • GTK4 • QML • Hyprland
@@ -66,6 +66,7 @@ Custom Linux desktop tooling, widgets and shell experiments for Wayland environm
 # Featured Work
 
 ## React Native Beta App
+
 Designed the full UI/UX in Figma and translated it into a fully functional React Native application released in beta on both the Apple App Store and Google Play Store.
 
 Built reusable component systems, authentication flows, state management architecture and testing infrastructure.
@@ -73,6 +74,7 @@ Built reusable component systems, authentication flows, state management archite
 ---
 
 ## Cloud Migration Initiative
+
 Led and actively contributed to the migration of legacy on-premise systems into cloud-native services hosted on Microsoft Azure.
 
 Worked on modern frontend architecture, reusable React systems and service integrations to improve maintainability and performance.
@@ -80,6 +82,7 @@ Worked on modern frontend architecture, reusable React systems and service integ
 ---
 
 ## AI Workflow Automation
+
 Building automation pipelines using local and cloud AI models for:
 - Job analysis
 - CV tailoring
@@ -104,13 +107,13 @@ I believe great products come from the balance between engineering, design and e
 
 # Stack
 
-### Frontend
+## Frontend
 React • TypeScript • React Native • Astro • Next.js • TanStack • TailwindCSS
 
-### Backend & Infrastructure
+## Backend & Infrastructure
 Node.js • MySQL • Drizzle ORM • Azure • Docker • CI/CD
 
-### Tooling & Experimentation
+## Tooling & Experimentation
 Ollama • n8n • Linux • Hyprland • Rust
 
 ---
