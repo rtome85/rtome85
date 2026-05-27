@@ -7,7 +7,6 @@ Building across **React**, **AI**, **mobile**, **cloud** and **Linux tooling**.
 [Portfolio](https://robtome.com)
 [LinkedIn](https://linkedin.com/in/robtome) 
 
----
 
 # About Me
 
