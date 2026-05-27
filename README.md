@@ -1,19 +1,10 @@
-```md
-<div align="center">
-
 # Roberto Tomé
 
 ### Software Engineer crafting modern products, interfaces and systems.
 
 Building across **React**, **AI**, **mobile**, **cloud** and **Linux tooling**.
 
-<br />
-
-[Portfolio](https://robtome.com) •
-[LinkedIn](https://linkedin.com/in/robtome) •
-[GitHub](https://github.com/rtome85)
-
-</div>
+[Portfolio](https://robtome.com) • [LinkedIn](https://linkedin.com/in/robtome) • [GitHub](https://github.com/rtome85)
 
 ---
 
@@ -23,11 +14,11 @@ I’m a software engineer with a strong focus on building polished, intentional 
 
 My work sits at the intersection of:
 
-- Frontend Engineering
-- Product Thinking
-- UX/UI Design
-- AI-Powered Workflows
-- Systems Architecture
+* Frontend Engineering
+* Product Thinking
+* UX/UI Design
+* AI-Powered Workflows
+* Systems Architecture
 
 I enjoy turning ideas into real products — from early concepts and interface design to scalable applications and deployment pipelines.
 
@@ -36,6 +27,7 @@ I enjoy turning ideas into real products — from early concepts and interface d
 # Currently Building
 
 ## Bespoke
+
 AI-powered browser extension that automatically tailors CVs and cover letters locally using Ollama.
 
 **Tech:** React • TypeScript • Plasmo • Ollama
@@ -43,6 +35,7 @@ AI-powered browser extension that automatically tailors CVs and cover letters lo
 ---
 
 ## FC Pereirense Platform
+
 Modern football club platform focused on memberships, events, digital experiences and content management.
 
 **Tech:** Astro • React • MySQL • Drizzle ORM • TailwindCSS
@@ -50,6 +43,7 @@ Modern football club platform focused on memberships, events, digital experience
 ---
 
 ## Lingua
+
 Language learning experience inspired by Duolingo with a strong focus on delightful UX and interaction design.
 
 **Tech:** React Native • TypeScript • Zustand
@@ -57,6 +51,7 @@ Language learning experience inspired by Duolingo with a strong focus on delight
 ---
 
 ## Omarchy / Wayland Experiments
+
 Custom Linux desktop tooling, widgets and shell experiments for Wayland environments.
 
 **Tech:** Rust • GTK4 • QML • Hyprland
@@ -84,11 +79,12 @@ Worked on modern frontend architecture, reusable React systems and service integ
 ## AI Workflow Automation
 
 Building automation pipelines using local and cloud AI models for:
-- Job analysis
-- CV tailoring
-- Content generation
-- Workflow orchestration
-- Product experimentation
+
+* Job analysis
+* CV tailoring
+* Content generation
+* Workflow orchestration
+* Product experimentation
 
 ---
 
@@ -96,10 +92,10 @@ Building automation pipelines using local and cloud AI models for:
 
 I like building software that feels intentional.
 
-Clean interfaces.  
-Fast interactions.  
-Thoughtful UX.  
-Systems that scale without becoming chaotic.
+* Clean interfaces
+* Fast interactions
+* Thoughtful UX
+* Systems that scale without becoming chaotic
 
 I believe great products come from the balance between engineering, design and execution.
 
@@ -108,24 +104,27 @@ I believe great products come from the balance between engineering, design and e
 # Stack
 
 ## Frontend
+
 React • TypeScript • React Native • Astro • Next.js • TanStack • TailwindCSS
 
 ## Backend & Infrastructure
+
 Node.js • MySQL • Drizzle ORM • Azure • Docker • CI/CD
 
 ## Tooling & Experimentation
+
 Ollama • n8n • Linux • Hyprland • Rust
 
 ---
 
 # Outside of Code
 
-- Cooking
-- UX and interface design
-- Linux customization
-- AI experimentation
-- Football club digital platforms
-- Building things from scratch
+* Cooking
+* UX and interface design
+* Linux customization
+* AI experimentation
+* Football club digital platforms
+* Building things from scratch
 
 ---
 
@@ -134,18 +133,14 @@ Ollama • n8n • Linux • Hyprland • Rust
 I enjoy creating side projects, UI experiments and developer tooling that explore new ideas, workflows and interfaces.
 
 Most of my repositories are active playgrounds for:
-- product ideas
-- interface systems
-- AI integrations
-- automation
-- desktop tooling
-- frontend architecture
+
+* product ideas
+* interface systems
+* AI integrations
+* automation
+* desktop tooling
+* frontend architecture
 
 ---
 
-<div align="center">
-
-### “Jack of all trades, master of some.”
-
-</div>
-```
+## “Jack of all trades, master of some.”
